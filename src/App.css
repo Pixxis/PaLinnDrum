@@ -1,0 +1,97 @@
+:root {
+  --app-max-width: 0;
+  --app-visibility: hidden;
+}
+
+html {
+  border: 5px solid #c03819;
+  font-size: var(--base-font-size);
+  color: var(--color-orange);
+  height: 2000px;
+  width: auto;
+}
+body {
+  position: relative;
+  background: white;
+}
+
+/* Padding me da mas espacio original 20px */
+.app {
+  box-shadow: 0 20px 10px 0 rgba(0, 0, 0, 0.7);
+  margin-left: auto;
+  margin-right: auto;
+  width: var(--app-max-width);
+  visibility: var(--app-visibility);
+  background-color: var(--color-bg);
+  padding: 15px;
+}
+
+@media only screen and (min-width: 400px) {
+  .app {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -40rem;
+  }
+}
+.app_content {
+  margin-right: 116.5px;
+  border: 1px solid #e26a2c;
+  border-radius: 10px;
+  margin-top: 14px;
+  margin-bottom: 85px;
+  transform: translateZ(0);
+}
+.app_header {
+  display: flex;
+  align-items: center;
+  justify-content: stretch;
+  /* aqui se puede cambiar la distancia del titulo */
+  margin-bottom: calc(var(--spacer) * 9.5);
+  margin-left: var(--spacer);
+  margin-right: var(--spacer);
+}
+
+.line {
+  right: -43.5%;
+  top: -98.5%;
+  width: 425px;
+  height: 47px;
+  border-bottom: 1px solid #c03819;
+  position: relative;
+}
+
+.line2 {
+  right: -43.5%;
+  top: -103.9%;
+  width: 425px;
+  height: 47px;
+  border-bottom: 1px solid #c03819;
+  position: relative;
+}
+
+.app_title {
+  position: relative;
+  margin-bottom: -3rem;
+  margin-left: 8%;
+  font-size: 5.2rem;
+  font-weight: 250;
+  flex: 1;
+}
+
+img.Wood {
+  border-radius: 5px;
+  height: 568px;
+  width: 30px;
+  margin-left: -149px;
+  margin-right: 234px;
+  margin-bottom: -569px;
+  padding-left: 12.5%;
+}
+
+img.Wood2 {
+  border-radius: 5px;
+  height: 568px;
+  width: 30px;
+  margin-left: 990px;
+  margin-bottom: -80px;
+}
