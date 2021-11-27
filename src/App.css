@@ -45,7 +45,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: stretch;
-  /* aqui se puede cambiar la distancia del titulo */
+
   margin-bottom: calc(var(--spacer) * 9.5);
   margin-left: var(--spacer);
   margin-right: var(--spacer);
