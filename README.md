@@ -2,8 +2,8 @@
 
 ## JavaScript based 808 Drum Machine built using React.js and hooks API
 
+![screenshot2](https://user-images.githubusercontent.com/92550158/143686101-75b28f44-a0a4-4b18-84af-c39965bd0f14.png)
 
- [![React 808 Screenshot](https://raw.githubusercontent.com/joeshub/react-808/master/screenshot.png)](https://github.com/joeshub/react-808)
 
 
 ### Development
