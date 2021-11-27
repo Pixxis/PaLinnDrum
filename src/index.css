@@ -89,7 +89,7 @@ video {
 
 body {
   background-color: rgb(19, 17, 17);
-  font-family: Denton Test "Denton Test";
+  font-family: DentonTest;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
