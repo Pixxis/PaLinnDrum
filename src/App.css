@@ -1,10 +1,11 @@
 :root {
+  font-family: DentonTest;
   --app-max-width: 0;
   --app-visibility: hidden;
 }
 
 html {
-  border: 5px solid #c03819;
+  /* border: 5px solid #c03819; */
   font-size: var(--base-font-size);
   color: var(--color-orange);
   height: 2000px;

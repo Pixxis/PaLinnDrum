@@ -80,8 +80,8 @@ function App() {
 
         <footer className="app_footer">
           {/* Source code on{" "}
-          <a href="https://github.com/joeshub/react-808">on Github</a>, ReBuilt
-          by <a href="http://seifi.org/">Pzrz</a> using React.js */}
+          <a href="https://github.com/Pixxis/PaLinnDrum">on Github</a>, ReBuilt
+          by <a href="https://palinndrum.netlify.app/">Pzrz</a> using React.js */}
         </footer>
       </main>
     </Provider>
