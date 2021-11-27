@@ -1,6 +1,6 @@
-# React 808
+# PalinnDrum
 
-## JavaScript based 808 Drum Machine built using React.js and hooks API
+## JavaScript based Linn Drum Machine built using React.js and hooks API
 
 ![screenshot2](https://user-images.githubusercontent.com/92550158/143686101-75b28f44-a0a4-4b18-84af-c39965bd0f14.png)
 
